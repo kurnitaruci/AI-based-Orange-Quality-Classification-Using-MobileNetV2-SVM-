@@ -92,7 +92,9 @@ After classification, the predicted grade is sent to the sorting mechanism:
 
 ### Block Diagram
 
-![Block Diagram](image/block_diagram.jpeg)
+<p align="left">
+  <img src="image/block_diagram.jpeg" width="700"/>
+</p>
 
 ### Schematic Diagram
 
@@ -154,9 +156,9 @@ After classification, the predicted grade is sent to the sorting mechanism:
 
 ### Prototype
 
-<p align="center">
-  <img src="image/prototype.jpeg" width="300"/>
-  <img src="image/prototype_2.png" width="300"/>
+<p align="left">
+  <img src="image/prototype.jpeg" width="500"/>
+  <img src="image/prototype_2.png" width="500"/>
 </p>
 
 ## Future Improvements
