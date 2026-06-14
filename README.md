@@ -92,9 +92,11 @@ After classification, the predicted grade is sent to the sorting mechanism:
 
 ### Block Diagram
 
-diagram blok sistem
+![Block Diagram](image/block_diagram.jpeg)
 
 ### Schematic Diagram
+
+![Schematic Diagram](images/schematic_diagram.png)
 
 ---
 
@@ -135,6 +137,12 @@ diagram blok sistem
 
 ### Confusion Matrix
 
+![Confusion Matrix](images/confusion_matrix.jpeg)
+
+### ROC Curve
+
+![ROC Curve](images/roc_curve.jpeg)
+
 ### Deployment Performance
 
 | Metric | Value |
@@ -143,6 +151,9 @@ diagram blok sistem
 | Average Inference Time | 0.42 Seconds |
 
 ### Prototype
+
+![Prototype1](images/prototype.jpeg)
+![Prototype2](images/prototype_2.png)
 
 ## Future Improvements
 
