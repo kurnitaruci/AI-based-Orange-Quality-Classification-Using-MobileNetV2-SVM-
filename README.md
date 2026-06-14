@@ -96,7 +96,7 @@ After classification, the predicted grade is sent to the sorting mechanism:
 
 ### Schematic Diagram
 
-![Schematic Diagram](images/schematic_diagram.png)
+![Schematic Diagram](image/schematic_diagram.png)
 
 ---
 
@@ -137,11 +137,11 @@ After classification, the predicted grade is sent to the sorting mechanism:
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.jpeg)
+![Confusion Matrix](image/confusion_matrix.jpeg)
 
 ### ROC Curve
 
-![ROC Curve](images/roc_curve.jpeg)
+![ROC Curve](image/roc_curve.jpeg)
 
 ### Deployment Performance
 
@@ -152,8 +152,8 @@ After classification, the predicted grade is sent to the sorting mechanism:
 
 ### Prototype
 
-![Prototype1](images/prototype.jpeg)
-![Prototype2](images/prototype_2.png)
+![Prototype1](image/prototype.jpeg)
+![Prototype2](image/prototype_2.png)
 
 ## Future Improvements
 
