@@ -152,8 +152,10 @@ After classification, the predicted grade is sent to the sorting mechanism:
 
 ### Prototype
 
-![Prototype1](image/prototype.jpeg)
-![Prototype2](image/prototype_2.png)
+<p align="center">
+  <img src="image/prototype.jpeg" width="45%">
+  <img src="image/prototype_2.png" width="45%">
+</p>
 
 ## Future Improvements
 
